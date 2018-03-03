@@ -28,3 +28,8 @@ function johnLennonFacts(array4){
 } 
 
 console.log(johnLennonFacts(facts));
+
+
+function iLoveTheBeatles(num){
+  
+}

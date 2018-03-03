@@ -11,4 +11,4 @@ function theBeatlesPlay(array1, array2){
 
 console.log(theBeatlesPlay(musicians,instruments));
 
-    
+function johnLennonFacts()   

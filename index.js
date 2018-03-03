@@ -20,12 +20,11 @@ console.log(theBeatlesPlay(musicians,instruments));
 
 function johnLennonFacts(array4){
   var i = 0;
-  var array5 = [];
   while(i<array4.length){
-    array5[i] = array4[i]+"!!!";
+    array4[i] = array4[i]+"!!!";
     i+=1;
   }
-  return array5;
+  return array4;
 } 
 
 console.log(johnLennonFacts(facts));
